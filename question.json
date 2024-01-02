@@ -1,0 +1,56 @@
+
+[
+
+	{
+		"question" : "",
+		"answer" : ""
+	},
+	{
+		"question" : "when were you founded| founded| year founded",
+		"answer" : "Founded in the year 2021"
+	},
+	{
+		"question" : "were are you located|location|how can we found you|what is your address",
+		"answer" : "Plot-964, Saikrupa, Patharagadia, Chandaka Bhubaneswar, Odisha 754005, IN"
+	},
+	{
+		"question" : "where is your headquater|do you have headquater|headquater",
+		"answer" : "Bhubaneswar, Odisha"
+	},
+	{
+		"question" : "area of specialties| what are your specialties| specialties| what are your area specialisation",
+		"answer" : "Science, Research, E-Learning, and Education"
+	},
+	{
+		"question" : "what is your mission|mission|our mission|your mission|mission statement",
+		"answer" : "Our mission is to make you think like a scientist.<br>Learn from Top Scientists around the world.<br>Full guidance for IISc Bangalore, IISERs, NISER, ISI, CMI, IACS, CUET, ICAR, etc."
+	},
+	{
+		"question" : "what is SciAstra|what is sciastra|who is sciastra|who we are",
+		"answer" : "SciAstra is an online learning platform that offers courses for IAT and NEST. The courses are designed to help students prepare for the exams by providing them with access to video lectures, practice questions, and mock tests."
+	},
+	{
+		"question" : "email address|email contact|support address",
+		"answer" : "support@sciastra.com"
+	},
+	{
+		"question" : "mobile app| have app|do you have app| do you have mobile app",
+		"answer" : "Yes. Download SciAstra app to reach us out there too. <a href="https://play.google.com/store/apps/details?id=co.tarly.voaaf&hl=en_IN&gl=US&pli=1">Android</a> OR <a href="https://apps.apple.com/us/app/sciastra/id6469692732">IOS</a>"
+	},
+	{
+		"question" : "sponsors|sponsorship|sponsor|sponsorship program| do you have sponsorship program",
+		"answer" : "SciAstra is now the official sponsor of Anvesha- the Science Fest of IISER Thiruvananthapuram"
+	},
+	{
+		"question" : "Institutes|any Institutes| list of Institutes| partners Institutes",
+		"answer" : "IISC, IISER, NISER, ISI, CMI, IACS, CEBS"
+	},
+
+	{
+		"question":"courses|offer courses|course|any courses|do you offer courses",
+		"answer":"Yes we offer courses"
+	}
+
+
+
+]
